@@ -1,0 +1,5 @@
+package ds
+
+func Ping() {
+
+}
