@@ -1,5 +1,0 @@
-package ds
-
-func Ping() {
-
-}
